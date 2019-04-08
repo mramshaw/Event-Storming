@@ -14,21 +14,21 @@ The wikipedia article is worth a read:
 
 ## Papers
 
-SEDA: An Architecture for Well-Conditioned, Scalable Internet Services
+[SEDA: An Architecture for Well-Conditioned, Scalable Internet Services](seda-sosp01.pdf)
 
-    Matt Welsh, David Culler, and Eric Brewer
+Matt Welsh, David Culler, and Eric Brewer
 
 Available at:
 
     http://github.com/mdwelsh/mdwelsh.github.io/blob/master/papers/seda-sosp01.pdf
 
-[Matt Welch is a co-author of the excellent [Running Linux](http://shop.oreilly.com/product/9780596007607.do).]
+__Matt Welsh__ is a co-author of the excellent [Running Linux](http://shop.oreilly.com/product/9780596007607.do).
 
-[Eric Brewer is of course known for the [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem).]
+__Eric Brewer__ is of course known for the [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem).
 
-Virtualization Considered Harmful: OS Design Directions for Well-Conditioned Services
+[Virtualization Considered Harmful: OS Design Directions for Well-Conditioned Services](seda-hotos01.pdf)
 
-    Matt Welsh and David Culler
+Matt Welsh and David Culler
 
 Available at:
 
