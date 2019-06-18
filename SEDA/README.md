@@ -45,7 +45,7 @@ The following quotes are from the [original article](seda-sosp01.pdf).
 
 [I have always referred to this as ___graceful failure___ - which is perhaps a pessimistic way of looking at things.]
 
-An important concept here is the is idea of ___fairness___: the previous
+An important concept here is the idea of ___fairness___: the previous
 state of affairs was ___first-come, first-served___ (everyone who got in
 a request before the servers became overloaded got a response; all subsequent
 requests were rejected).
